@@ -1,0 +1,12 @@
+/Users/scode/Projects/DemoCsharp/DemoCSharp.Models/bin/Debug/net6.0/DemoCSharp.Models.deps.json
+/Users/scode/Projects/DemoCsharp/DemoCSharp.Models/bin/Debug/net6.0/DemoCSharp.Models.dll
+/Users/scode/Projects/DemoCsharp/DemoCSharp.Models/bin/Debug/net6.0/DemoCSharp.Models.pdb
+/Users/scode/Projects/DemoCsharp/DemoCSharp.Models/obj/Debug/net6.0/DemoCSharp.Models.csproj.AssemblyReference.cache
+/Users/scode/Projects/DemoCsharp/DemoCSharp.Models/obj/Debug/net6.0/DemoCSharp.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scode/Projects/DemoCsharp/DemoCSharp.Models/obj/Debug/net6.0/DemoCSharp.Models.AssemblyInfoInputs.cache
+/Users/scode/Projects/DemoCsharp/DemoCSharp.Models/obj/Debug/net6.0/DemoCSharp.Models.AssemblyInfo.cs
+/Users/scode/Projects/DemoCsharp/DemoCSharp.Models/obj/Debug/net6.0/DemoCSharp.Models.csproj.CoreCompileInputs.cache
+/Users/scode/Projects/DemoCsharp/DemoCSharp.Models/obj/Debug/net6.0/DemoCSharp.Models.dll
+/Users/scode/Projects/DemoCsharp/DemoCSharp.Models/obj/Debug/net6.0/refint/DemoCSharp.Models.dll
+/Users/scode/Projects/DemoCsharp/DemoCSharp.Models/obj/Debug/net6.0/DemoCSharp.Models.pdb
+/Users/scode/Projects/DemoCsharp/DemoCSharp.Models/obj/Debug/net6.0/ref/DemoCSharp.Models.dll

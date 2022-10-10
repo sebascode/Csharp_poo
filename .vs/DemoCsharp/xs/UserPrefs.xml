@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{EA1468AD-451A-41BC-815E-AC57310DFD75}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DemoCSharp.Models FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DemoCsharp.Consola PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

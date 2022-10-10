@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DemoCsharp.Consola/1.0.0": {
+        "dependencies": {
+          "DemoCSharp.Models": "1.0.0"
+        },
+        "runtime": {
+          "DemoCsharp.Consola.dll": {}
+        }
+      },
+      "DemoCSharp.Models/1.0.0": {
+        "runtime": {
+          "DemoCSharp.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoCsharp.Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DemoCSharp.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
